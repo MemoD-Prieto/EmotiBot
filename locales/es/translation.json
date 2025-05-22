@@ -1,0 +1,63 @@
+{
+    "home": "Inicio",
+    "phq_gad_forms": "Formularios PHQ/GAD",
+    "welcome_title": "Bienvenido a EmotiBot",
+    "welcome_description": "EmotiBot es una plataforma impulsada por inteligencia artificial diseñada para apoyar el bienestar emocional y mental de niños y adolescentes mediante la detección temprana y orientación.",
+
+    "mission_title": "Nuestra Misión",
+    "mission_description": "Nuestra misión es utilizar la tecnología para romper el estigma en torno a la salud mental y brindar herramientas accesibles para el monitoreo emocional. EmotiBot empodera a cuidadores y profesionales para actuar de manera temprana y eficiente.",
+
+    "why_title": "¿Por Qué Importa la Salud Mental?",
+    "why_description": "Los problemas de salud mental pueden afectar gravemente el desarrollo de un joven. La intervención temprana puede reducir los desafíos emocionales a largo plazo, mejorar el rendimiento académico y fomentar relaciones más saludables.",
+
+    "phq_title": "¿Qué es el PHQ-9?",
+    "phq_description": "El Cuestionario de Salud del Paciente-9 (PHQ-9) es una herramienta validada a nivel mundial para evaluar la gravedad de la depresión. Consta de nueve preguntas y ayuda a identificar síntomas de forma rápida y efectiva.",
+
+    "gad_title": "¿Qué es el GAD-7?",
+    "gad_description": "La Escala de Trastorno de Ansiedad Generalizada-7 (GAD-7) es una herramienta simple pero poderosa para medir niveles de ansiedad. Incluye siete preguntas y se utiliza para entender y seguir el progreso de la ansiedad con el tiempo.",
+
+    "how_title": "¿Cómo Funciona EmotiBot?",
+    "how_description": "EmotiBot combina algoritmos inteligentes con ciencia psicológica para analizar estados emocionales y bienestar mental usando dos modelos:",
+    "how_point_1": "Un Modelo de Reconocimiento Emocional que analiza expresiones faciales para detectar estados emocionales en tiempo real.",
+    "how_point_2": "Un Modelo de Análisis de Cuestionarios que interpreta respuestas del PHQ-9 y GAD-7 para clasificar niveles de depresión y ansiedad.",
+    "how_extra": "Este sistema combinado ofrece información útil para brindar apoyo oportuno y fomenta la conciencia sobre la salud mental en hogares, escuelas y entornos clínicos.",
+
+    "footer_disclaimer": "EmotiBot no es una herramienta diagnóstica y no reemplaza evaluaciones clínicas. Su propósito es fomentar la conciencia y la conversación sobre la salud mental.",
+    "footer_rights": "Todos los derechos reservados.",
+    "emotion_analysis": {
+        "sidebar": "Análisis Emocional",
+        "title": "Descubramos cómo te sientes",
+        "description": "¡Imagina un ayudante mágico que puede contar historias basadas en tus emociones! Con solo mirarte un momento—como cuando sonríes o estás curioso—este ayudante puede adivinar cómo te sientes hoy. No te preocupes, no guarda nada y solo quiere ayudarte a sentirte mejor. Necesitaremos encender tu cámara por un momento, como cuando hablas con un amigo.",
+        "turn_on_camera": "Encender cámara",
+        "turn_off_camera": "Apagar cámara",
+        "analyze": "Analizar mi rostro",
+        "start_story": "Iniciar historia",
+        "detected": "¡Creo que te sientes",
+        "robot_mode_on": "Modo robot ACTIVADO",
+        "robot_mode_off": "Modo robot DESACTIVADO",
+        "permission_alert": "Necesitamos acceso a tu cámara para continuar.",
+        "emotion": {
+            "happy": "feliz",
+            "sad": "triste",
+            "curious": "curioso",
+            "surprised": "sorprendido",
+            "neutral": "neutral"
+        }
+    },
+    "emotion_stories": {
+        "happy": ["Había una vez una pequeña estrella que bailaba en el cielo solo para verte sonreír.", "Una mariposa voló en círculos hoy porque vio a alguien tan feliz como tú."],
+        "sad": [
+            "Un pequeño robot se sentía triste, pero un abrazo cálido de un amigo lo hizo sentir mejor.",
+            "Las nubes estaban grises hasta que alguien susurró un chiste, y el cielo soltó una carcajada de luz."
+        ],
+        "curious": [
+            "Un gatito descubrió una puerta escondida detrás del librero que conducía a un jardín lleno de misterios.",
+            "En una tierra de acertijos, un valiente explorador como tú encontró la última pieza perdida."
+        ],
+        "surprised": ["¡Boom! Un pastel explotó con chispas justo cuando nadie lo esperaba.", "Un dragón dormido despertó y encontró una fiesta de cumpleaños solo para él."],
+        "neutral": [
+            "Un lago tranquilo descansaba hasta que un sapo saltó alegremente, enviando ondas por todos lados.",
+            "Hoy se sentía tranquilo... hasta que apareció un arcoíris y comenzó a bailar por el cielo."
+        ]
+    }
+}
